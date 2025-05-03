@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyam Burnwal</h1>
+<h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">Passionate about building smart web & AI-based solutions. 🚀 Always learning, always improving — let's innovate together!
 </h3>
 
