@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Burnwal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Passionate about building smart web & AI-based solutions. 🚀 Always learning, always improving — let's innovate together!
+</h3>
 
 ---
 
@@ -35,4 +36,4 @@
 
 ### 📊 GitHub Stats
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamburnwal&show_icons=true&theme=radical)
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xatyam01l&show_icons=true&theme=radical)
